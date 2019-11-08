@@ -28,7 +28,7 @@
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
       ),
-      url("../assets/home.jpg");
+      url("../assets/home-bg.jpg.desktop");
     /* height: 70vh; */
     background-size: cover;
     background-repeat: no-repeat;
