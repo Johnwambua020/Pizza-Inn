@@ -152,7 +152,6 @@ function Pizza(size, crust) {
     }
     var pizzaList = [];
     
-    
     $("#orderbtn").on("click", function() {
       totalQuantity += 1;
       $("#quantity").text(totalQuantity);
