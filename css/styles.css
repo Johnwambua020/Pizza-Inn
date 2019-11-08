@@ -23,12 +23,7 @@
     color: #247a00;
   }
   .main {
-    background-image: linear-gradient(
-        0deg,
-        rgba(0, 0, 0, 0.5),
-        rgba(0, 0, 0, 0.5)
-      ),
-      url("../assets/home-bg.jpg.desktop");
+    background-image: linear-gradient( 0deg,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../assets/home-bg.jpg");
     /* height: 70vh; */
     background-size: cover;
     background-repeat: no-repeat;
