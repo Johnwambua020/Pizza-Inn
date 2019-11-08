@@ -1,10 +1,10 @@
-# Pizza INN CAFE
+# PIZZA INN CAFE
 
 ## Author
 - John Wambua
 
 ## Description
-- A web application wgere customers can order different sizes of pizza with one or more toppings
+- A web application were customers can order different sizes of pizza with one or more toppings
 
 ## Installation/set up
 1. Open up your terminal (CTRL ALT T)
